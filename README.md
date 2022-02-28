@@ -1,3 +1,3 @@
 Video calling website
-a prototype
+a prototype,
 made using HTML, CSS and Javacscript.
